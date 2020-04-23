@@ -1,7 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<App /> should render and match the snapshot 1`] = `
-<div>
+<ForwardRef>
+  <Header />
   <Switch>
     <Route
       component={[Function]}
@@ -10,8 +11,28 @@ exports[`<App /> should render and match the snapshot 1`] = `
     />
     <Route
       component={[Function]}
+      exact={true}
+      path="/resume"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/stuff"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/links"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/stocks"
+    />
+    <Route
+      component={[Function]}
     />
   </Switch>
   <GlobalStyleComponent />
-</div>
+</ForwardRef>
 `;
