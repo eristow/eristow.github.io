@@ -9,20 +9,40 @@
 
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
+import styled from 'styled-components';
 
+import Header from 'components/Header';
 import HomePage from 'containers/HomePage/Loadable';
+import Resume from 'containers/Resume/Loadable';
+import Stuff from 'containers/Stuff/Loadable';
+import Links from 'containers/Links/Loadable';
+import Stocks from 'containers/Stocks/Loadable';
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
 
 import GlobalStyle from '../../global-styles';
 
+const AppWrapper = styled.div`
+  max-width: calc(768px + 16px * 2);
+  margin: 0 auto;
+  display: flex;
+  min-height: 100%;
+  padding: 0 16px;
+  flex-direction: column;
+`;
+
 export default function App() {
   return (
-    <div>
+    <AppWrapper>
+      <Header />
       <Switch>
         <Route exact path="/" component={HomePage} />
+        <Route exact path="/resume" component={Resume} />
+        <Route exact path="/stuff" component={Stuff} />
+        <Route exact path="/links" component={Links} />
+        <Route exact path="/stocks" component={Stocks} />
         <Route component={NotFoundPage} />
       </Switch>
       <GlobalStyle />
-    </div>
+    </AppWrapper>
   );
 }

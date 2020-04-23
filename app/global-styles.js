@@ -16,7 +16,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #app {
-    background-color: #fafafa;
+    background-color: #121212;
     min-height: 100%;
     min-width: 100%;
   }
@@ -25,6 +25,18 @@ const GlobalStyle = createGlobalStyle`
   label {
     font-family: Georgia, Times, 'Times New Roman', serif;
     line-height: 1.5em;
+    color: white;
+    opacity: 87%;
+  }
+
+  h1 {
+    color: white;
+    opacity: 87%;
+  }
+
+  ul {
+    color: white;
+    opacity: 87%;
   }
 `;
 
