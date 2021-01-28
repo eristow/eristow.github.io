@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/favicon.ico",
-      "/runtime.6f635f4cb3af35d0c401.js",
+      "/runtime.fc180c334040d3d8461d.js",
       "/"
     ],
     "additional": [
@@ -25,9 +25,9 @@ var __wpo = {
       "/17.a47205ebe39e340ad204.chunk.js",
       "/18.4b243d99194466df1a7e.chunk.js",
       "/19.d1b3e297f0cc12e68103.chunk.js",
-      "/20.4eefb54a2f50977c84e4.chunk.js",
-      "/21.d0faa7c1332be0433b8d.chunk.js",
-      "/22.a15a49377a44d03746a2.chunk.js",
+      "/20.2a5e4327a95c2d7fcbb3.chunk.js",
+      "/21.a6a96e2f544bcb17fd7b.chunk.js",
+      "/22.8402b53ce30e5ed7ac1c.chunk.js",
       "/23.f471d333679a2e8938da.chunk.js"
     ],
     "optional": []
@@ -51,19 +51,19 @@ var __wpo = {
     "58a746d32e97daaa5ce1080e9c86a8ce276ab723": "/npm.redux-saga.881bb23c78b817c6b5ae.chunk.js",
     "f1dad0ce3dc494311000cf0f1fec85d8f9b2dd69": "/npm.rehowl.8e392a60cd2bee37e5d1.chunk.js",
     "3f075add1eaf016d21b7ecae089d04e1f1611b24": "/npm.styled-icons.413cfa238550bacf6a28.chunk.js",
-    "df35e9f972d8f4b7dd98af7765c8a701d5aba799": "/runtime.6f635f4cb3af35d0c401.js",
+    "00b44a65c2617f3800cd7c30fa5f50e903da8e9c": "/runtime.fc180c334040d3d8461d.js",
     "f58e3f86ced2c72c9cada5b164a1173d73e6858a": "/17.a47205ebe39e340ad204.chunk.js",
     "db213ba6c7fcc0e2b0054386f0c6e697be5aec50": "/18.4b243d99194466df1a7e.chunk.js",
     "d322a4ca5bd6ec0616f7ec73da697857d86d6f50": "/19.d1b3e297f0cc12e68103.chunk.js",
-    "59425c4f10e0af74ecb684dd0a63d577b7dec3fc": "/20.4eefb54a2f50977c84e4.chunk.js",
-    "ab36ee71156c0c7d84e599c7db63a2ef16f87455": "/21.d0faa7c1332be0433b8d.chunk.js",
-    "26d19d63e5e7d5af60c18a9f6d7341b41aa51b9b": "/22.a15a49377a44d03746a2.chunk.js",
+    "46cfee0c038f590f1c5281df4ee124978bb9f10e": "/20.2a5e4327a95c2d7fcbb3.chunk.js",
+    "86604ad72bbb13b75efe61d4ab3237526812bd8a": "/21.a6a96e2f544bcb17fd7b.chunk.js",
+    "7504a16026a41a22e96d4793f19384e1da013b75": "/22.8402b53ce30e5ed7ac1c.chunk.js",
     "5080ffac384c4f353f3d5fb08d3ecb813c6bd202": "/23.f471d333679a2e8938da.chunk.js",
-    "a7aef6c58d10b0fec723504c1f2d34f7a28310a1": "/"
+    "4aa29056ba9009f74e9583c9745cadebe3668c0c": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "1/19/2021, 3:15:55 PM",
+  "version": "1/28/2021, 2:47:52 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
