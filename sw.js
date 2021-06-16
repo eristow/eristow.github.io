@@ -2,7 +2,7 @@ var __wpo = {
   "assets": {
     "main": [
       "/favicon.ico",
-      "/runtime.c93c211bfa813dcb85e1.js",
+      "/runtime.66753bc63784b4b5f8fb.js",
       "/"
     ],
     "additional": [
@@ -27,7 +27,7 @@ var __wpo = {
       "/19.5d668dc5b30188b1d712.chunk.js",
       "/20.b77a25021c2a216b58f7.chunk.js",
       "/21.4b1b3c88b3ebb4f0b7bb.chunk.js",
-      "/22.b330be90c9210e29afca.chunk.js",
+      "/22.1b9ef536e19be94a1dee.chunk.js",
       "/23.f471d333679a2e8938da.chunk.js"
     ],
     "optional": []
@@ -51,19 +51,19 @@ var __wpo = {
     "a147e6a3c10eeee8dab88c58581710bfc3025672": "/npm.react-redux.27d24ab9881de08e19a0.chunk.js",
     "4f2a19c6c1dd5758c18ac5cf934124842bba10e2": "/npm.redux-saga.90658a73a35f3c97e583.chunk.js",
     "3d81b5d406884dfc2c8b7d8898cfef46d3007d56": "/npm.rehowl.1295e368b66fa11fe721.chunk.js",
-    "97a0bc63089e35f474d26c122a98362cb7274839": "/runtime.c93c211bfa813dcb85e1.js",
+    "7dc37ec8f9fc5f727ad840d98bac7abfe3f442e3": "/runtime.66753bc63784b4b5f8fb.js",
     "f58e3f86ced2c72c9cada5b164a1173d73e6858a": "/17.a47205ebe39e340ad204.chunk.js",
     "80331ffa7934df66ba34f5d7e077ac666bc57d45": "/18.2d5da0e945d5095612e9.chunk.js",
     "7a66d9618e8ea47e305afdea035fc30a7ad21b0f": "/19.5d668dc5b30188b1d712.chunk.js",
     "5290f1ae102e2fa9a96579a321c6ba35be1525aa": "/20.b77a25021c2a216b58f7.chunk.js",
     "6c2312970e134246a1ff40022b6b5ea04fe7cb93": "/21.4b1b3c88b3ebb4f0b7bb.chunk.js",
-    "d1b398bec77a48ec0447a40b47884868302297e5": "/22.b330be90c9210e29afca.chunk.js",
+    "6ee0589e65bef661bfe5bd03e709fbbf569dee32": "/22.1b9ef536e19be94a1dee.chunk.js",
     "5080ffac384c4f353f3d5fb08d3ecb813c6bd202": "/23.f471d333679a2e8938da.chunk.js",
-    "36cd2197894bb314d98f11f22110826d95b07108": "/"
+    "aadb8275f397d10e34bb3d6055d5e2465ec8e14a": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "6/14/2021, 1:08:26 PM",
+  "version": "6/16/2021, 12:12:52 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
